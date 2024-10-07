@@ -4,6 +4,9 @@
 
 **Algorithms & DataStructures Arena** is a dedicated repository for practicing and mastering algorithms and data structures. It covers a variety of fundamental and advanced topics, providing code implementations, explanations, and problem-solving exercises to enhance your understanding of computational techniques.
 
+![image](https://github.com/user-attachments/assets/c28c473e-1bed-4cf5-9efd-579f332f470b)
+
+
 This repository is ideal for:
 - Students preparing for coding interviews.
 - Developers looking to deepen their knowledge in algorithms and data structures.
